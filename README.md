@@ -1,6 +1,6 @@
 # Ogmo Support
 
-For support, please contact us at: ogmo.support@gmail.com
+For support, please contact us at: aryae@gmail.com
 We are happy to help with any questions or issues regarding Ogmo.
 
 ## Ogmo Privacy Policy
